@@ -1,3 +1,12 @@
 # tugas_logika_informatika
 
-## code input 
+## Code input 
+```python
+```
+
+
+## Output 
+````markdown
+````
+
+## Penjelasan 
