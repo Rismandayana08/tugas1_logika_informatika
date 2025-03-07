@@ -10,3 +10,6 @@
 ````
 
 ## Penjelasan 
+
+
+## Cara kerja Program 
